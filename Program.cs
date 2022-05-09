@@ -27,6 +27,7 @@ namespace getIPWebsite
             {
                 WriteLine("Error");
             }
+            Console.ReadKey();
         }
     }
 }
